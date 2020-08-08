@@ -65,13 +65,13 @@ The samples and the labels in each file are listed in exactly the same order. Th
 
 ## 4. Website
 
-The MOROCO data set and accompanying software is available at:
+The MOROCO-Tweets data set and accompanying software is available at:
 [https://github.com/raduionescu/MOROCO-Tweets](https://github.com/raduionescu/MOROCO-Tweets)
 
 
 ## 5. Software Usage
 
-For convenience, we provide Python code to evaluate your model.
+For convenience, we provide Python code to evaluate your model(s).
 
 To evaluate your model(s) on the MOROCO-Tweets data set, use the following command:
 ```
