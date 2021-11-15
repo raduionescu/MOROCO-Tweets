@@ -16,7 +16,7 @@ This data set and software is distributed in the hope that it will be useful, bu
 
 Please cite the corresponding work (see citation.bib file to obtain the citation in BibTex format) if you use this data set and software (or a modified version of it) in any scientific work:
 
-**[1] Mihaela Găman, Radu Tudor Ionescu. The Unreasonable Effectiveness of Machine Learning in Moldavian versus Romanian Dialect Identification. ArXiv, 2020 [(link to paper)](https://arxiv.org/abs/2007.15700).**
+**[1] Mihaela Găman, Radu Tudor Ionescu. The Unreasonable Effectiveness of Machine Learning in Moldavian versus Romanian Dialect Identification. International Journal of Intelligent Systems, 2021 [(link to preprint)](https://arxiv.org/abs/2007.15700).**
 
 ## 3. Description
 
